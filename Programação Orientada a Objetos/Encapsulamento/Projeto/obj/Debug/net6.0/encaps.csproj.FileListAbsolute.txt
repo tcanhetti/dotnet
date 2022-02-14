@@ -1,0 +1,15 @@
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\obj\Debug\net6.0\encaps.csproj.AssemblyReference.cache
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\obj\Debug\net6.0\encaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\obj\Debug\net6.0\encaps.AssemblyInfoInputs.cache
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\obj\Debug\net6.0\encaps.AssemblyInfo.cs
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\obj\Debug\net6.0\encaps.csproj.CoreCompileInputs.cache
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\bin\Debug\net6.0\encaps.exe
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\bin\Debug\net6.0\encaps.deps.json
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\bin\Debug\net6.0\encaps.runtimeconfig.json
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\bin\Debug\net6.0\encaps.dll
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\bin\Debug\net6.0\ref\encaps.dll
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\bin\Debug\net6.0\encaps.pdb
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\obj\Debug\net6.0\encaps.dll
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\obj\Debug\net6.0\ref\encaps.dll
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\obj\Debug\net6.0\encaps.pdb
+C:\Users\thauer.furtado\documents\Estudos-DIO\aula-poo\encapsulamento\encaps\obj\Debug\net6.0\encaps.genruntimeconfig.cache
