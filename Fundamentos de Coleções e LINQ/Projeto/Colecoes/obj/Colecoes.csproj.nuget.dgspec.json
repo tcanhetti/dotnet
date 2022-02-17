@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thauer.furtado\\Documents\\Estudos-DIO\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\Colecoes.csproj": {}
+    "C:\\Users\\thauer.furtado\\Documents\\dotnet\\dotnet\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\Colecoes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thauer.furtado\\Documents\\Estudos-DIO\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\Colecoes.csproj": {
+    "C:\\Users\\thauer.furtado\\Documents\\dotnet\\dotnet\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\Colecoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thauer.furtado\\Documents\\Estudos-DIO\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\Colecoes.csproj",
+        "projectUniqueName": "C:\\Users\\thauer.furtado\\Documents\\dotnet\\dotnet\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\Colecoes.csproj",
         "projectName": "Colecoes",
-        "projectPath": "C:\\Users\\thauer.furtado\\Documents\\Estudos-DIO\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\Colecoes.csproj",
+        "projectPath": "C:\\Users\\thauer.furtado\\Documents\\dotnet\\dotnet\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\Colecoes.csproj",
         "packagesPath": "C:\\Users\\thauer.furtado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thauer.furtado\\Documents\\Estudos-DIO\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\obj\\",
+        "outputPath": "C:\\Users\\thauer.furtado\\Documents\\dotnet\\dotnet\\Fundamentos de Coleções e LINQ\\Projeto\\Colecoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
