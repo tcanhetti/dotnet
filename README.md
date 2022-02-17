@@ -1,2 +1,2 @@
 # dotnet
- Estudo sobre dotnet
+ Estudo sobre dotnet C#
