@@ -1,0 +1,15 @@
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Users\thauer.furtado\Documents\dotnet\dotnet\App de cadastro de series\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache

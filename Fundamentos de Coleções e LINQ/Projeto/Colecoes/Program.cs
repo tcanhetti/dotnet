@@ -8,6 +8,18 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
+            int N = Convert.ToInt32(Console.ReadLine());
+      
+            while(N-- > 0) {
+                int val = Convert.ToInt32(Console.ReadLine());
+                int newval =  (int)Math.Sqrt(val);
+                int resposta = val - newval;
+            
+                Console.WriteLine(resposta);
+            }
+            List<string> teste = new List<string>();
+            System.Collections.IEnumerable
+
         // LINQ (Language Integrated Query)
 
             // int[] arrayNumeros = new int[10] {100, 1, 3, 0, 6, 8, 11, 3, 6, 15};
@@ -32,14 +44,14 @@ namespace Colecoes
             //         where num % 2 == 0
             //         orderby num
             //         select num;
-            
+
             // var numerosParesMetodo = arrayNumeros.Where(x => x % 2 == 0 ).OrderBy( x => x).ToList();
 
             // System.Console.WriteLine("Números pares query: " + string.Join(", ", numerosParesQuery));
             // System.Console.WriteLine("Números pares método: " + string.Join(", ", numerosParesMetodo));
-                
 
-        // Dicionarios
+
+            // Dicionarios
             // Dictionary<string, string> estados = new Dictionary<string, string>();
 
             // estados.Add("PR", "Paraná");
@@ -77,8 +89,8 @@ namespace Colecoes
 
             // System.Console.WriteLine("Valor atualizado:");
             // System.Console.WriteLine(estados[valorProcurado]);
-    
-        // Trabalhando com filas e pilhas
+
+            // Trabalhando com filas e pilhas
             // Pilha (LIFO)
             // Stack<string> pilhaLivros = new Stack<string>();
             // pilhaLivros.Push("Livro 1");
@@ -114,14 +126,14 @@ namespace Colecoes
             // List<string> estados = new List<string>  {"PR", "SC", "RS"};
             // OperacoesLista opLista = new OperacoesLista();
             // string[] estadosArray = new string[2] {"SP", "MG"};
-            
+
 
             // estados.Insert(0, estadosArray[0]);
 
             // opLista.ImprimirListaString(estados);
 
 
-// Trabalhando com incremento de lista
+            // Trabalhando com incremento de lista
             // estados.AddRange(estadosArray);
 
             // opLista.ImprimirListaString(estados);
@@ -129,14 +141,14 @@ namespace Colecoes
 
 
 
-//             System.Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}");
-//             opLista.ImprimirListaString(estados);
+            //             System.Console.WriteLine($"Quantidade de elementos na lista: {estados.Count}");
+            //             opLista.ImprimirListaString(estados);
 
-//             System.Console.WriteLine("Removendo o elemento");
-//             estados.Remove("RS");
-// // Nota que ao remover um item da lista ela reposiciona os demais, não tendo valor nulo entre os itens // //
-// // uma grande vantagem comparado aos arrays que teriamos que fazer esse trabalho manualmente. // // // // //
-//             opLista.ImprimirListaString(estados);
+            //             System.Console.WriteLine("Removendo o elemento");
+            //             estados.Remove("RS");
+            // // Nota que ao remover um item da lista ela reposiciona os demais, não tendo valor nulo entre os itens // //
+            // // uma grande vantagem comparado aos arrays que teriamos que fazer esse trabalho manualmente. // // // // //
+            //             opLista.ImprimirListaString(estados);
 
 
 
@@ -154,7 +166,7 @@ namespace Colecoes
 
 
             // Testando busca por indice
-            
+
             // int valorProcurado = 3;
             // int indice = op.ObterIndice(array, valorProcurado);
 
@@ -191,7 +203,7 @@ namespace Colecoes
             //     }
             // }
 
-            
+
             // if(existe)
             // {
             //     string plural = "";
@@ -205,8 +217,8 @@ namespace Colecoes
             // {
             //     System.Console.WriteLine($"Não encontrei o valor: {valorProcurado}");
             // }
-                    
-                
+
+
 
             //Testando copia entre arrays
             // System.Console.WriteLine("Array original:");
@@ -247,7 +259,7 @@ namespace Colecoes
             //     {"Linha: 2 | Coluna 1", "Linha: 2 | Coluna 2", "Linha: 2 | Coluna 3", "Linha: 2 | Coluna 4"},
             //     {"Linha: 3 | Coluna 1", "Linha: 3 | Coluna 2", "Linha: 3 | Coluna 3", "Linha: 3 | Coluna 4"}
             // };
-            
+
             // for (int i = 0; i < arrayString.GetLength(0); i++)
             // {
             //     for (int j = 0; j < arrayString.GetLength(1); j++)
